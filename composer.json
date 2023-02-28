@@ -1,5 +1,5 @@
 {
-    "name": "symfony/phpunit-bridge",
+    "name": "small/swoole-phpunit-bridge",
     "type": "symfony-bridge",
     "description": "Provides utilities for PHPUnit, especially user deprecation notices management",
     "keywords": [],
